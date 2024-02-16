@@ -10,3 +10,4 @@ app.get('/ola', (req, res) => {
 app.listen(port,() => {
     console.log(`Estou na porta ${port}`);
 });
+console.log("Hello");
